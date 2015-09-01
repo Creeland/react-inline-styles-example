@@ -1,6 +1,6 @@
 # react-inline-styles-example
 
-An example of using inline styles with JSX in a React component
+An example of using inline styles with JSX in a React component for an [Egghead.io](https://egghead.io) lesson.
 
 ---
 
