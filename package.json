@@ -24,15 +24,15 @@
   },
   "devDependencies": {
     "pre-commit": "1.x.x",
-    "eslint": "1.x.x",
-    "eslint-plugin-react": "3.x.x",
-    "babel-core": "5.x.x",
-    "babel-loader": "5.x.x",
-    "react": "0.13.x",
+    "eslint": "2.x.x",
+    "eslint-plugin-react": "4.x.x",
+    "babel-core": "6.x.x",
+    "babel-loader": "6.x.x",
+    "react": "15.0.x",
     "react-hot-loader": "1.x.x",
     "file-loader": "0.8.x",
     "webpack": "1.x.x",
     "webpack-dev-server": "1.x.x",
-    "babel": "5.x.x"
+    "babel": "6.x.x"
   }
 }
